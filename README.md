@@ -1,2 +1,4 @@
 # GradeStudentClass
-CodeAcademy exercise to find avg &amp; assign letter grades to students and the class
+CodeAcademy exercise to find avg and assign letter grades to students and the class.
+
+Uses dictionaries, functions
